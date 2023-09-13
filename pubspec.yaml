@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.17.0
+  intl: ^0.18.1
   flutter_grid_button: ^2.0.0
   auto_size_text: ^3.0.0
   expressions: ^0.2.3
